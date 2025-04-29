@@ -1,0 +1,69 @@
+/* Reset básico */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: Arial, sans-serif;
+    color: #333;
+    line-height: 1.6;
+  }
+  
+  header {
+    background: #4CAF50;
+    color: #fff;
+    padding: 1em;
+    text-align: center;
+  }
+  
+  nav ul {
+    list-style: none;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin: 0 1em;
+  }
+  
+  a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  section {
+    padding: 2em;
+    max-width: 800px;
+    margin: auto;
+  }
+  
+  h2 {
+    color: #4CAF50;
+    margin-bottom: 1em;
+  }
+  
+  form label {
+    display: block;
+    margin: 0.5em 0 0.2em;
+  }
+  
+  form input, form select {
+    width: 100%;
+    padding: 0.5em;
+    margin-bottom: 1em;
+  }
+  
+  form button, .button {
+    background: #4CAF50;
+    color: #fff;
+    padding: 0.7em;
+    border: none;
+    cursor: pointer;
+    text-align: center;
+  }
+  
+  form button:hover, .button:hover {
+    background: #45a049;
+  }
+  
