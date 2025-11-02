@@ -1,0 +1,47 @@
+[
+  {
+    "date": "2024-11-01",
+    "template": "Empuje",
+    "sets": [
+      { "exercise": "Press banca", "reps": 6, "weight": 80, "rpe": 8 },
+      { "exercise": "Press inclinado mancuernas", "reps": 10, "weight": 30, "rpe": 9 },
+      { "exercise": "Fondos", "reps": 8, "weight": 10, "rpe": 8 }
+    ]
+  },
+  {
+    "date": "2024-11-03",
+    "template": "Tirón",
+    "sets": [
+      { "exercise": "Peso muerto convencional", "reps": 5, "weight": 150, "rpe": 8.5 },
+      { "exercise": "Remo con barra", "reps": 8, "weight": 70, "rpe": 8 },
+      { "exercise": "Dominadas", "reps": 6, "weight": 0, "rpe": 9 }
+    ]
+  },
+  {
+    "date": "2024-11-05",
+    "template": "Pierna",
+    "sets": [
+      { "exercise": "Sentadilla trasera", "reps": 6, "weight": 105, "rpe": 8 },
+      { "exercise": "Peso muerto rumano", "reps": 8, "weight": 90, "rpe": 8.5 },
+      { "exercise": "Hip thrust", "reps": 10, "weight": 80, "rpe": 8 }
+    ]
+  },
+  {
+    "date": "2024-11-07",
+    "template": "Empuje",
+    "sets": [
+      { "exercise": "Press banca", "reps": 6, "weight": 82.5, "rpe": 8.5 },
+      { "exercise": "Press militar", "reps": 8, "weight": 50, "rpe": 8 },
+      { "exercise": "Fondos", "reps": 9, "weight": 12.5, "rpe": 9 }
+    ]
+  },
+  {
+    "date": "2024-11-08",
+    "template": "Tirón",
+    "sets": [
+      { "exercise": "Peso muerto convencional", "reps": 5, "weight": 152.5, "rpe": 8.5 },
+      { "exercise": "Remo con barra", "reps": 8, "weight": 72.5, "rpe": 8 },
+      { "exercise": "Dominadas", "reps": 7, "weight": 0, "rpe": 8.5 }
+    ]
+  }
+]
