@@ -1,0 +1,19 @@
+{
+  "user": {
+    "name": "Alex Demo",
+    "email": "alex.demo@syncfit.test",
+    "sex": "male",
+    "age": 30,
+    "heightCm": 178,
+    "weightKg": 78,
+    "goal": "recomp",
+    "experience": "intermediate",
+    "availabilityDays": 4
+  },
+  "macros": {
+    "calories": 2550,
+    "proteinGrams": 150,
+    "fatGrams": 70,
+    "carbsGrams": 285
+  }
+}

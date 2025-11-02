@@ -1,0 +1,38 @@
+[
+  {
+    "consumedAt": "2024-11-01T08:00:00.000Z",
+    "name": "Desayuno",
+    "items": [
+      { "food": "Avena", "quantity": 0.8 },
+      { "food": "Proteína whey", "quantity": 1 },
+      { "food": "Plátano", "quantity": 1 }
+    ]
+  },
+  {
+    "consumedAt": "2024-11-01T14:00:00.000Z",
+    "name": "Comida",
+    "items": [
+      { "food": "Pechuga de pollo", "quantity": 1 },
+      { "food": "Arroz blanco cocido", "quantity": 1.5 },
+      { "food": "Brócoli", "quantity": 1 }
+    ]
+  },
+  {
+    "consumedAt": "2024-11-01T20:00:00.000Z",
+    "name": "Cena",
+    "items": [
+      { "food": "Salmón", "quantity": 1 },
+      { "food": "Quinoa cocida", "quantity": 1 },
+      { "food": "Espinacas", "quantity": 1 }
+    ]
+  },
+  {
+    "consumedAt": "2024-11-02T08:00:00.000Z",
+    "name": "Desayuno",
+    "items": [
+      { "food": "Avena", "quantity": 0.7 },
+      { "food": "Proteína whey", "quantity": 1 },
+      { "food": "Manzana", "quantity": 1 }
+    ]
+  }
+]
